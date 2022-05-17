@@ -163,7 +163,7 @@ with main_under:
 
     with col3:
         if uploaded_file is not None:
-            st.image(final_chart.png)
-            st.image(all_char.png)
+            st.image("final_chart.png")
+            st.image("all_char.png")
 
 
